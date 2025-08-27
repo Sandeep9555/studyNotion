@@ -107,3 +107,7 @@ cd StudyNotion
 
 # Install dependencies
 npm install
+
+MONGODB_URI=<your-mongodb-connection-url>
+JWT_SECRET=<your-jwt-secret-key>
+
